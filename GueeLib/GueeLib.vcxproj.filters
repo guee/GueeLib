@@ -24,9 +24,105 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="GBaseNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GXmlDocument.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GVariant.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GWidget.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GEventLoop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GGlobal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GRect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GSize.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GFont.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GColor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GDummyDesktop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GMargins.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GEvent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GBaseNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GXmlDocument.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GVariant.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GWidget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GEventLoop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GRect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GSize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GFont.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GColor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GDummyDesktop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GMargins.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GEvent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GDialog.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
